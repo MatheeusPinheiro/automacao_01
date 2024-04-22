@@ -12,14 +12,16 @@ Um One Page é um resumo muito simples e direto ao ponto, usado pela equipe de g
 
 Exemplo de OnePage:
 
-![title](onepage.png)
+![image](https://github.com/MatheeusPinheiro/automacao_01/assets/78563956/a6febd97-2878-40c4-b9af-7f072c0c079c)
+
 
 
 O seu papel, como Analista de Dados, é conseguir criar um processo da forma mais automática possível para calcular o OnePage de cada loja e enviar um email para o gerente de cada loja com o seu OnePage no corpo do e-mail e também o arquivo completo com os dados da sua respectiva loja em anexo.
 
 Ex: O e-mail a ser enviado para o Gerente da Loja A deve ser como exemplo
 
-![exemplo_email](Exemplo.JPG)
+![image](https://github.com/MatheeusPinheiro/automacao_01/assets/78563956/a158934a-58f2-4e56-bcba-e28989a6a985)
+![image](https://github.com/MatheeusPinheiro/automacao_01/assets/78563956/d9c05c70-923f-4e4c-918b-03bfc5df6477)
 
 
 ### Arquivos e Informações Importantes
